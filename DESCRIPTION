@@ -1,0 +1,17 @@
+Package: lifeutils
+Type: Package
+Title: Everday Life Utility Functions
+Version:  0.0.0.9000
+Authors@R: c(
+    person(
+      "Lindsay", "Rush",
+      email = "rushintermedia@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: Collection of 15 R functions for practical calculations in everyday life involving: personal finance, shopping, and travel.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/lindsayrr8/lifeutils
+BugReports: https://github.com/lindsayrr8/lifeutils/issues
