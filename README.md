@@ -5,7 +5,7 @@ Packaged collection of R functions for practical calculations in everyday life i
 
 ## How to Run
 1) Open project (based on (>= 3.5.0) R in RStudio)
-2) Review included list of functions. Either input manual values or call examples from included data frames.
+2) Review included list of functions. Either input manual values or call examples from included data frames. All functions can be run manually without utilizing a data frame.
 3) Outputs are produced in the console and can be saved locally if applicable.
 
 ## Additional Packages
