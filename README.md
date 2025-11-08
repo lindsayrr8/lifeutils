@@ -10,7 +10,7 @@ Packaged collection of R functions for practical calculations in everyday life i
 
 ## Additional Packages
 - None
-## Data - Source:
+## Data - Source
 - `bulk` - made up; included with package.
 - `cars` - made up; included with package.
 - `food` - made up; included with package.
