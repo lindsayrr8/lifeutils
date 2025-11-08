@@ -11,11 +11,11 @@ Packaged collection of R functions for practical calculations in everyday life i
 ## Additional Packages
 - None
 ## Data - Source
-- `bulk` - made up; included with package.
-- `cars` - made up; included with package.
-- `food` - made up; included with package.
-- `gifts` - made up; included with package.
-- `loans` - made up; included with package.
+- `bulk` - bulk items for purchase; made up; included with package.
+- `cars` - a short list of cars with mpg and tank size; made up; included with package.
+- `food` - a menu; made up; included with package.
+- `gifts` - a short gift catalog; made up; included with package.
+- `loans` - a small selection of loan plans; made up; included with package.
 
 ## List of Functions
 #### Personal Finance:
