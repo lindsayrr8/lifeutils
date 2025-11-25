@@ -1,7 +1,7 @@
 Package: lifeutils
 Type: Package
 Title: Everday Life Utility Functions
-Version:  0.0.0.9000
+Version:  1.0.0
 Authors@R: c(
     person(
       "Lindsay", "Rush",
@@ -17,3 +17,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/lindsayrr8/lifeutils
 BugReports: https://github.com/lindsayrr8/lifeutils/issues
+
