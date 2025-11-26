@@ -1,10 +1,10 @@
 # lifeutils
 
-## Description
-Packaged collection of R functions for practical calculations in everyday life involving: personal finance, shopping, and travel.
-
 ## Link to Relevant Blog Post
 [https://rlanguagejournal.blogspot.com/2025/11/the-lifeutils-r-package.html](https://rlanguagejournal.blogspot.com/2025/11/the-lifeutils-r-package.html)
+
+## Description
+Packaged collection of R functions for practical calculations in everyday life involving: personal finance, shopping, and travel.
 
 ## How to Run
 1) Open project (based on (>= 3.5.0) R in RStudio)
