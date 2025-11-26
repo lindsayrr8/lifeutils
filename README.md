@@ -3,6 +3,9 @@
 ## Description
 Packaged collection of R functions for practical calculations in everyday life involving: personal finance, shopping, and travel.
 
+## Link to Relevant Blog Post
+[https://rlanguagejournal.blogspot.com/2025/11/the-lifeutils-r-package.html](https://rlanguagejournal.blogspot.com/2025/11/the-lifeutils-r-package.html)
+
 ## How to Run
 1) Open project (based on (>= 3.5.0) R in RStudio)
 2) Review included list of functions. Either input manual values or call examples from included data frames. All functions can receive manual input and run without utilizing a data frame. Some functions support included data sets. See documentation.
