@@ -4,7 +4,7 @@ Title: Everday Life Utility Functions
 Version: 1.0.0
 Authors@R: c(
     person(
-      "Lindsay", "Rush",
+      "Lindsay", "R.",
       email = "rushintermedia@gmail.com",
       role = c("aut", "cre")
     )
@@ -18,3 +18,4 @@ LazyData: true
 URL: https://github.com/lindsayrr8/lifeutils
 BugReports: https://github.com/lindsayrr8/lifeutils/issues
 RoxygenNote: 7.3.3
+
